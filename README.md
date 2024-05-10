@@ -36,3 +36,5 @@
 ## Privacy & Security
 SnackStats does not collect or store any user data. All analysis is done locally in your browser, ensuring maximum privacy and security.
 
+## Copyright Notice
+This project is copyrighted, so the source code remains private. However, the deployment link and screenshots above provides a full demonstration of how the application works.
