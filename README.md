@@ -1,6 +1,6 @@
 # SnackStats - Chrome Extension and Analytics Website
 
-![SnackStats Logo](logo2.png)
+![SnackStats Logo](logo16.png)
 
 ## Introduction
 **SnackStats** is a Chrome extension that helps users analyze and visualize their food delivery spending patterns across popular platforms like Uber Eats, SkipTheDishes, and DoorDash. The extension automatically extracts order history data from each platform, then displays it on a custom analytics website with comprehensive statistics, trends, and visualizations.
