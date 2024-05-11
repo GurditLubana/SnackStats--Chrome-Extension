@@ -1,5 +1,9 @@
 # SnackStats - Chrome Extension and Analytics Website
 
+## Demo Video
+![Demo Video](demo.gif)
+
+
 ![SnackStats Logo](logo128.png)
 
 ## Introduction
@@ -18,9 +22,6 @@
 3. Click the SnackStats extension icon and select the food delivery app whose data you'd like to see.
 4. SnackStats will automatically open the relevant order history page and extract your data.
 5. Once the analysis is complete, a new tab opens to the SnackStats website where you can view detailed insights.
-
-## Demo Video
-![Demo Video](demo-video.mp4)
 
 
 ## Technology Stack
